@@ -1,0 +1,34 @@
+{
+  "update": [
+    {
+      "id": 1,
+      "bookname": "Circle of Silence",
+      "author": "Amitav Gosh",
+      "price": "650"
+    },
+    {
+      "id": 2,
+      "bookname": "Salman Rushdie",
+      "author": "Midnight's Children",
+      "price": "500"
+    },
+     {
+      "id": 3,
+      "bookname": "God of Small Things",
+      "author": "Arundhati Roy",
+      "price": "600"
+    },
+     {
+      "id": 4,
+      "bookname": "Train to Pakistan",
+      "author": "Khushwant Singh",
+      "price": "450"
+    },
+     {
+      "id": 5,
+      "bookname": "Programming in java",
+      "author": "E.Balaguruswamy",
+      "price": "650"
+    }
+  ]
+}
